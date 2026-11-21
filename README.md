@@ -1,2 +1,25 @@
-# end-to-end-sql-data-warehouse
-Developing an end-to-end SQL Data Warehouse using MySQL, implementing ETL pipelines, data cleaning, dimensional modeling, and analytical queries to transform raw data into structured, analytics-ready datasets.
+# End-to-End SQL Data Warehouse | Data Engineering Project
+
+Welcome to the **Data Warehouse and Analytics Project**, demonstrating end-to-end data engineering practices, including data ingestion, ETL, data modeling, and analytics to transform raw data into meaningful business insights.
+
+## Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+
+#### Specifications
+
+
+### BI: Analytics & Reporting (Data Analytics)
+
+#### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+
+**Customer Behavior**
+**Product Performance**
+**Sales Trends**
+
+## Livense
+
+## About Me
