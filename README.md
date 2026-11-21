@@ -8,8 +8,15 @@ Welcome to the **Data Warehouse and Analytics Project**, demonstrating end-to-en
 
 #### Objective
 
-#### Specifications
+Develop a modern Data Warehouse using MySQL to consolidate sales date enabling analytical reporting and informed decision making.
 
+
+#### Specifications
+- Data Source:
+- Data Quality:
+- Integration:
+- Scope:
+- Documentation:
 
 ### BI: Analytics & Reporting (Data Analytics)
 
